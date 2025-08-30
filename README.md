@@ -1,6 +1,6 @@
 # Portfólio Pessoal - Enzo Alvarenga
 
-![Prévia do Portfólio](https://i.imgur.com/8a6P41M.png) Bem-vindo ao repositório do meu portfólio pessoal! Este projeto foi desenvolvido do zero como uma forma de apresentar minhas habilidades, experiências e projetos na área de desenvolvimento de software para recrutadores e para a comunidade.
+Bem-vindo ao repositório do meu portfólio pessoal! Este projeto foi desenvolvido do zero como uma forma de apresentar minhas habilidades, experiências e projetos na área de desenvolvimento de software para recrutadores e para a comunidade.
 
 O site foi construído com foco em um design moderno, responsivo e com uma ótima experiência de usuário (UX).
 
@@ -21,7 +21,6 @@ O site foi construído com foco em um design moderno, responsivo e com uma ótim
 Este projeto foi construído utilizando as seguintes tecnologias e ferramentas:
 
 * **[React](https://react.dev/)** - Biblioteca JavaScript para a construção da interface.
-* **[Vite](https://vitejs.dev/)** - Ferramenta de build para um desenvolvimento rápido e otimizado.
 * **[Tailwind CSS](https://tailwindcss.com/)** - Framework de CSS utility-first para uma estilização ágil e moderna.
 * **[Git & GitHub](https://github.com/)** - Para versionamento e hospedagem do código.
 * **[Vercel](https://vercel.com/)** - Para o deploy e hospedagem do site.
@@ -60,7 +59,7 @@ Se você quiser executar este projeto na sua máquina, siga os passos abaixo:
 
 Você pode entrar em contato comigo através dos seguintes canais:
 
-* **Email:** `seu-email@exemplo.com`
-* **LinkedIn:** `https://www.linkedin.com/in/seu-usuario/`
+* **Email:** `alvarengaenzo2005@gmail.com`
+* **LinkedIn:** `https://www.linkedin.com/in/EnzoAlv`
 
 ---
