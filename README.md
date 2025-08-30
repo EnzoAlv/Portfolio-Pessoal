@@ -1,70 +1,66 @@
-# Getting Started with Create React App
+# Portfólio Pessoal - Enzo Alvarenga
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Prévia do Portfólio](https://i.imgur.com/8a6P41M.png) Bem-vindo ao repositório do meu portfólio pessoal! Este projeto foi desenvolvido do zero como uma forma de apresentar minhas habilidades, experiências e projetos na área de desenvolvimento de software para recrutadores e para a comunidade.
 
-## Available Scripts
+O site foi construído com foco em um design moderno, responsivo e com uma ótima experiência de usuário (UX).
 
-In the project directory, you can run:
+**[➡️ Veja o site ao vivo!](SEU_LINK_DO_VERCEL_VAI_AQUI)** ---
 
-### `npm start`
+## ✨ Features
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+* **Design Responsivo:** Totalmente funcional e visualmente agradável em desktops, tablets e celulares.
+* **Tema Dark/Light:** Um seletor de tema para alternar entre o modo claro e escuro, com a preferência salva no navegador.
+* **Componentização com React:** O projeto é estruturado em componentes reutilizáveis, seguindo as melhores práticas do React.
+* **Timeline de Experiências:** Uma seção de experiências profissionais apresentada em formato de linha do tempo.
+* **Galeria de Projetos:** Cards para exibir projetos com imagens, descrição, tecnologias e links para o código e para a versão ao vivo.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+---
 
-### `npm test`
+## 🛠️ Tecnologias Utilizadas
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Este projeto foi construído utilizando as seguintes tecnologias e ferramentas:
 
-### `npm run build`
+* **[React](https://react.dev/)** - Biblioteca JavaScript para a construção da interface.
+* **[Vite](https://vitejs.dev/)** - Ferramenta de build para um desenvolvimento rápido e otimizado.
+* **[Tailwind CSS](https://tailwindcss.com/)** - Framework de CSS utility-first para uma estilização ágil e moderna.
+* **[Git & GitHub](https://github.com/)** - Para versionamento e hospedagem do código.
+* **[Vercel](https://vercel.com/)** - Para o deploy e hospedagem do site.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 🚀 Rodando o Projeto Localmente
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Se você quiser executar este projeto na sua máquina, siga os passos abaixo:
 
-### `npm run eject`
+1.  **Clone o repositório:**
+    ```bash
+    git clone [https://github.com/EnzoAlv/Portfolio-Pessoal.git](https://github.com/EnzoAlv/Portfolio-Pessoal.git)
+    ```
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+2.  **Navegue até a pasta do projeto:**
+    ```bash
+    cd Portfolio-Pessoal
+    ```
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+3.  **Instale as dependências:**
+    ```bash
+    npm install
+    ```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+4.  **Inicie o servidor de desenvolvimento:**
+    ```bash
+    npm run dev
+    ```
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+    Agora, basta abrir o seu navegador em `http://localhost:5173` (ou a porta que o Vite indicar) para ver o projeto rodando.
 
-## Learn More
+---
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## 📫 Contato
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Você pode entrar em contato comigo através dos seguintes canais:
 
-### Code Splitting
+* **Email:** `seu-email@exemplo.com`
+* **LinkedIn:** `https://www.linkedin.com/in/seu-usuario/`
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+---
