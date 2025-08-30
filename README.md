@@ -1,10 +1,13 @@
 # Portfólio Pessoal - Enzo Alvarenga
 
+<img width="1877" height="918" alt="image" src="https://github.com/user-attachments/assets/771df5de-24be-466c-8aab-7339fac1032b" />
+
 Bem-vindo ao repositório do meu portfólio pessoal! Este projeto foi desenvolvido do zero como uma forma de apresentar minhas habilidades, experiências e projetos na área de desenvolvimento de software para recrutadores e para a comunidade.
 
 O site foi construído com foco em um design moderno, responsivo e com uma ótima experiência de usuário (UX).
 
-**[➡️ Veja o site ao vivo!](SEU_LINK_DO_VERCEL_VAI_AQUI)** ---
+**[➡️ Veja o site ao vivo!](portfolio-pessoal-sage.vercel.app
+)** ---
 
 ## ✨ Features
 
@@ -51,7 +54,7 @@ Se você quiser executar este projeto na sua máquina, siga os passos abaixo:
     npm run dev
     ```
 
-    Agora, basta abrir o seu navegador em `http://localhost:5173` (ou a porta que o Vite indicar) para ver o projeto rodando.
+    Agora, basta abrir o seu navegador em `http://localhost:5173` para ver o projeto rodando.
 
 ---
 
