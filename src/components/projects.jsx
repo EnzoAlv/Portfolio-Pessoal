@@ -2,8 +2,7 @@ import React from 'react';
 import project1Image from '../assets/images/projeto1.png';
 import project2Image from '../assets/images/projeto2.png'; 
 import project3Image from '../assets/images/projeto3.png'; 
-
-
+import project4Image from '../assets/images/projeto4.png';
 const Projects = () => {
   return (
     <section 
@@ -25,8 +24,9 @@ const Projects = () => {
                 <div className="mb-4">
                   <span className="font-semibold text-gray-800 dark:text-gray-200">Tecnologias:</span>
                   <div className="flex flex-wrap mt-2 gap-2">
-                    <span className="bg-blue-500 text-white text-xs font-medium px-2.5 py-1 rounded-full">React</span>
-                    <span className="bg-gray-700 text-white text-xs font-medium px-2.5 py-1 rounded-full">API</span>
+                    <span className="bg-blue-500 text-white font-medium text-sm px-4 py-2 rounded-full shadow-md">React</span>
+                    <span className="bg-gray-700 text-white font-medium text-sm px-4 py-2 rounded-full shadow-md">API</span>
+                    <span className="bg-purple-600 text-white font-medium text-sm px-4 py-2 rounded-full shadow-md">Git/GitHub</span>
                   </div>
                 </div>
               </div>
@@ -48,8 +48,9 @@ const Projects = () => {
                 <div className="mb-4">
                   <span className="font-semibold text-gray-800 dark:text-gray-200">Tecnologias:</span>
                   <div className="flex flex-wrap mt-2 gap-2">
-                    <span className="bg-blue-500 text-white text-xs font-medium px-2.5 py-1 rounded-full">React</span>
-                    <span className="bg-gray-700 text-white text-xs font-medium px-2.5 py-1 rounded-full">API</span>
+                    <span className="bg-blue-500 text-white font-medium text-sm px-4 py-2 rounded-full shadow-md">React</span>
+                    <span className="bg-gray-700 text-white font-medium text-sm px-4 py-2 rounded-full shadow-md">API</span>
+                    <span className="bg-purple-600 text-white font-medium text-sm px-4 py-2 rounded-full shadow-md">Git/GitHub</span>
                   </div>
                 </div>
               </div>
@@ -64,17 +65,44 @@ const Projects = () => {
             <div className="p-6 flex flex-col justify-between flex-grow">
               <div>
                 <h3 className="text-xl font-bold mb-2 text-gray-900 dark:text-white">PET - Saúde Digital</h3>
-                <p className="text-gray-700 dark:text-gray-400 mb-4">Projeto fruto de uma parceria entre o Governo e a prefeitura de Franca que visa um desenvolvimento tecnológico no sistema de Saúde pública da região</p>
-                <div className="mb-4">
-                  <span className="font-bold text-gray-800 dark:text-gray-200">EM DESENVOLVIMENTO</span>
-                  <div className="flex flex-wrap mt-2 gap-2">
+                <p className="text-gray-700 dark:text-gray-400 mb-4">Projeto fruto de uma parceria entre o Governo e a prefeitura de Franca que visa um 
+                  desenvolvimento tecnológico no sistema de Saúde pública da região. Buscando a combinação entre tecnologia e saúde, a fim de aprimorar a qualidade de vida na cidade.</p>
+                      <div className="mb-4">
+                        <span className="font-bold text-gray-800 dark:text-gray-200">EM DESENVOLVIMENTO</span>
+                        <div className="flex flex-wrap mt-2 gap-2">
+                      </div>
+                    </div>  
                   </div>
                 </div>
               </div>
+              <div className="bg-gray-50 rounded-lg shadow-lg overflow-hidden transform hover:-translate-y-2 transition-transform duration-300 dark:bg-gray-800">
+                    <img src={project4Image} alt="Preview do Projeto 4" className="w-full h-48 object-cover" />
+                    <div className="p-6 flex flex-col justify-between flex-grow">
+                      <div>
+                        <h3 className="text-xl font-bold mb-2 text-gray-900 dark:text-white">Nexus Cart</h3>
+                        <p className="text-gray-700 dark:text-gray-400 mb-4">Uma aplicação web full-stack de um e-commerce funcional, utilizando a stack MERN.
+                          Faz parte da avaliação de uma disciplina da faculdade. A plataforma NexusCart permitirá que usuários se cadastrem, 
+                          explorem um catálogo de produtos, gerenciem um carrinho de compras e finalizem pedidos de forma segura.</p>
+                        <div className="mb-4">
+                          <span className="font-semibold text-gray-800 dark:text-gray-200">Tecnologias:</span>
+                          <div className="flex flex-wrap mt-2 gap-2">
+                            <span className="bg-blue-500 text-white font-medium text-sm px-4 py-2 rounded-full shadow-md">React</span>
+                            <span className="bg-yellow-400 text-gray-800 font-medium text-sm px-4 py-2 rounded-full shadow-md">JavaScript</span>
+                            <span className="bg-green-600 text-white font-medium text-sm px-4 py-2 rounded-full shadow-md">Node.js</span>
+                            <span className="bg-gray-600 text-white font-medium text-sm px-4 py-2 rounded-full shadow-md">Express.js</span>
+                            <span className="bg-green-600 text-white font-medium text-sm px-4 py-2 rounded-full shadow-md">MongoDB</span>
+                            <span className="bg-purple-600 text-white font-medium text-sm px-4 py-2 rounded-full shadow-md">Git/GitHub</span>
+                          </div>
+                        </div>
+                      </div>
+                      <span className="font-bold text-gray-800 dark:text-gray-200">EM DESENVOLVIMENTO</span>
+                      <div className="flex justify-start gap-4 mt-4">
+                        <a href="https://github.com/Projeto-Full-Stackk" target="_blank" rel="noopener noreferrer" className="text-gray-800 font-semibold rounded-lg bg-gray-200 hover:bg-gray-300 px-4 py-2 text-sm transition-colors duration-300 dark:text-gray-200 dark:bg-gray-700 dark:hover:bg-gray-600">Código no GitHub</a>
+                      </div>
+                    </div>
+                  </div>
             </div>
           </div>
-        </div>
-      </div>
     </section>
   );
 };

@@ -37,13 +37,13 @@ const About = () => {
             <span className="bg-green-600 text-white font-medium text-sm px-4 py-2 rounded-full shadow-md">
               Node.js
             </span>
-            <span className="bg-purple-600 text-white font-medium text-sm px-4 py-2 rounded-full shadow-md">
+            <span className="bg-gray-600 text-white font-medium text-sm px-4 py-2 rounded-full shadow-md">
               Express.js
             </span>
             <span className="bg-green-600 text-white font-medium text-sm px-4 py-2 rounded-full shadow-md">
               MongoDB
             </span>
-            <span className="bg-gray-600 text-white font-medium text-sm px-4 py-2 rounded-full shadow-md">
+            <span className="bg-purple-600 text-white font-medium text-sm px-4 py-2 rounded-full shadow-md">
               Git/GitHub
             </span>
           </div>
