@@ -6,8 +6,8 @@ Bem-vindo ao repositório do meu portfólio pessoal! Este projeto foi desenvolvi
 
 O site foi construído com foco em um design moderno, responsivo e com uma ótima experiência de usuário (UX).
 
-**[➡️ Veja o site ao vivo!](portfolio-pessoal-sage.vercel.app
-)** ---
+**[➡️ Veja o site ao vivo!](
+(https://enzoalvarenga.dev.br/))** ---
 
 ## ✨ Features
 
